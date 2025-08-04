@@ -48,20 +48,20 @@
                 <a href="https://www.youtube.com/watch?v=LocWjiSWBLo&ab" target="_blank">Escuchar</a>
             </div>
             <div class="block">
-                <p>"Amo Dejarte Así" - Gustavo Cerati (para nuestra ocasión especial)</p>
+                <p>"Amo Dejarte Así" - Gustavo Cerati</p>
                 <a href="https://www.youtube.com/watch?v=SbH6X5578Ac" target="_blank">Escuchar</a>
             </div>
             <div class="block">
-                <p>"En Esta Habitación" - Libido</p>
-                <a href="https://www.youtube.com/watch?v=LSV3O18mjjI" target="_blank">Escuchar</a>
+                <p>"Nothing's Gonna Hurt You Baby" - CAS</p>
+                <a href="https://youtu.be/8cYyOOAYD50?si=EYk5oukEWoXJp3QB" target="_blank">Escuchar</a>
             </div>
             <div class="block">
                 <p>"Te Quiero" - Amen</p>
                 <a href="https://www.youtube.com/watch?v=HYsmQ7voYpw" target="_blank">Escuchar</a>
             </div>
             <div class="block">
-                <p>"La Chata" - Amen</p>
-                <a href="https://www.youtube.com/watch?v=pc9F1GSk8nw" target="_blank">Escuchar</a>
+                <p>"Te Llevo Para Que Me Lleves" - Gustavo Cerati</p>
+                <a href="https://youtu.be/jiKGUnzCAKo?si=XvfTo1RawicJnj9G" target="_blank">Escuchar</a>
             </div>
             <div class="block">
                 <p>"Comenzar de nuevo" - Jhovan Tomasevich</p>
@@ -76,11 +76,11 @@
                 <a href="https://www.youtube.com/watch?v=ZKcE3iitIEA" target="_blank">Escuchar</a>
             </div>
             <div class="block">
-                <p>"Prófugos" - Soda Stereo</p>
-                <a href="https://www.youtube.com/watch?v=sKo_-hNfB5Q" target="_blank">Escuchar</a>
+                <p>"Yebba's Heartbreak (feat. Yebba)" - Drake</p>
+                <a href="https://youtu.be/AgH3SckiC5I?si=WlIU7xdllkSiT_b9" target="_blank">Escuchar</a>
             </div>
             <div class="block">
-                <p>"Die For You" - The Weeknd (Sub. Español)</p>
+                <p>"Die For You" - The Weeknd</p>
                 <a href="https://www.youtube.com/watch?v=SvizVoNjv7A" target="_blank">Escuchar</a>
             </div>
             <div class="block">
@@ -88,14 +88,16 @@
                 <a href="https://www.youtube.com/watch?v=sDMxQF18yvA" target="_blank">Escuchar</a>
             </div>
             <div class="block">
-                <p>. . .</p>
+                <p>"Lover, You Should've Come Over" - Jeff Buckley</p>
+                <a href="https://youtu.be/-CivutLP68w?si=oW1AxVI3b5wjrkYy" target="_blank">Escuchar</a>
             </div>
             <div class="block">
-                <p>"Cositas Que Hacíamos" - Farruko (Para no perder la costumbre)</p>
-                <a href="https://www.youtube.com/watch?v=6uX-y8RDTgw" target="_blank">Escuchar</a>
+                <p>"Red" - Taylor Swift</p>
+                <a href="https://youtu.be/52redn2ybxQ?si=f7nhJHWESZfImlIc" target="_blank">Escuchar</a>
             </div>
             <div class="block">
-                <p>. . .</p>
+                <p>"Lover is a Day" - Cuco</p>
+                <a href="https://youtu.be/9wiEM0s4aCQ?si=QF8dJ_KweLbzazNv" target="_blank">Escuchar</a>
             </div>
         `,
         dibujos: `
@@ -121,4 +123,5 @@
     document.addEventListener('DOMContentLoaded', () => {
         showContent('poemas');
     });
+
 
