@@ -2,42 +2,41 @@
     const content = {
         poemas: `
             <div class="block">
-                <p>El verano ha llegado, pero no se siente tan increíble como cuando tú estás a mi lado.</p>
-            </div>
-            <div class="block">
-                <p>Tus ojos relucen tanto que me ciegan de pasión, me llega hasta el alma y me derrite el corazón.</p>
-            </div>
-            <div class="block">
-                <p>Aquella primera unión de nuestros labios, crearon un lazo que me hace quererte tanto.</p>
-            </div>
-            <div class="block">
-                <p>Los momentos que pasamos, en mi corazón los tengo guardado como lo mejor que he vivido en estos años.</p>
-            </div>
-            <div class="block">
-                <p>Extraño tus besos, dulces como la miel; también tus caricias, manos suaves como pétalos al amanecer, que rozan mi piel con ternura y estremecen mi ser.</p>
-            </div>
-            <div class="block">
-                <p>Te dedico mil canciones para expresarte mi amor en mil emociones.</p>
-            </div>
-            <div class="block">
-                <p>Aquella noche en el auto, sin contención, revivimos el fuego de nuestra pasión.</p>
-            </div>
-            <div class="block">
-                <p>Cada día necesito de tus abrazos pero no me dices si tú quieres que esté a tu lado.</p>
-            </div>
-            <div class="block">
-                <p>Te conozco en tantas maneras, como mis manos al recorrer en tu silueta y tus zonas secretas.</p>
-            </div>
-            <div class="block">
-                <p>No quiero que olvides todo lo que vivimos porque habrá un vacío en nuestros caminos.</p>
-            </div>
-            <div class="block">
-                <p>Extraño tus labios, la curva de tus cejas, el brillo de tus ojos, la suavidad de tu cabello; extraño, en verdad, todo de ti.</p>
-            </div>
-            <div class="block">
-                <p>Lo intentaría mil veces contigo, cumpliendo mi promesa de ser tu pareja y abrigo. Eres lo que mereces en esta vida tan cruel y fría, 
-                mi razón, mi esperanza, mi eterna alegría.</p>
-            </div>
+            <p>El invierno ha llegado y no sabes las tremendas ganas que quiero que estés a mi lado, abrazados.</p>
+        </div>
+        <div class="block">
+            <p>Tus ojos relucen tanto que me ciegan de pasión, me llega hasta el alma y me derrite el corazón.</p>
+        </div>
+        <div class="block">
+            <p>Cuando pruebe tus labios, serás la mujer más feliz y yo él más afortunado.</p>
+        </div>
+        <div class="block">
+            <p>Realmente eres mi único deseo, lo que más anhelo en el mundo entero</p>
+        </div>
+        <div class="block">
+            <p>Con tu luz, mejoraste mi vida y mis ganas de vivir mejor cada día </p>
+        </div>
+        <div class="block">
+            <p>Te dedico mil canciones para expresarte mi amor en mil emociones.</p>
+        </div>
+        <div class="block">
+            <p>Ahora te veo en mis sueños, viviendo a mi lado pero queriendo que no se acabe el tiempo.</p>
+        </div>
+        <div class="block">
+            <p>Cada día de pienso, es tan grande este sentimiento que no dejaría que se lo lleve el viento.</p>
+        </div>
+        <div class="block">
+            <p>Cada mensaje, cada oración, cada palabra, son hechas desde la inspiración de mi corazón.</p>
+        </div>
+        <div class="block">
+            <p>No quiero que se separen nuestros caminos, porque me sentiría vacío.</p>
+        </div>
+        <div class="block">
+            <p>Te escribo de noche y de día, con ganas de ver en tu sonrisa.</p>
+        </div>
+        <div class="block">
+            <p>Despierto con tu mensaje de buenos días y desde ahí mi día ya se siente muy bonita.</p>
+        </div>
         `,
         canciones: `
             <div class="block">
@@ -122,3 +121,4 @@
     document.addEventListener('DOMContentLoaded', () => {
         showContent('poemas');
     });
+
